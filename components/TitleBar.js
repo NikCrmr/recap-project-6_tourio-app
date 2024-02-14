@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 const Headline = styled.h1`
   position: fixed;
+  font-family: Georgia, "Times New Roman", Times, serif;
   top: 0;
   left: 0;
   width: 100%;
